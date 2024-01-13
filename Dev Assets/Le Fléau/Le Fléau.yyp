@@ -34,10 +34,15 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"StartGame","path":"objects/StartGame/StartGame.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"_story_room","path":"rooms/_story_room/_story_room.yy",},},
     {"id":{"name":"StartMenu","path":"rooms/StartMenu/StartMenu.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"StartMenu","path":"rooms/StartMenu/StartMenu.yy",},},
+    {"roomId":{"name":"_story_room","path":"rooms/_story_room/_story_room.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
